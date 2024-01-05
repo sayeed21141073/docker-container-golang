@@ -1,4 +1,3 @@
-# Go Gin Hello World
 
 This repository contains a simple Go web server built with the Gin framework that displays "Hello World" on `localhost:8081`.
 
